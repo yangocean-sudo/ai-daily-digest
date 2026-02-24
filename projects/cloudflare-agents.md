@@ -1,40 +1,19 @@
----
-url: https://github.com/cloudflare/agents
-created: 2025-02-22
-tags:
-  - github
-  - ai-agent
-  - cloudflare
-  - edge-computing
-  - typescript
----
+# agents
 
-# Cloudflare Agents
+**GitHub**: https://github.com/cloudflare/agents
 
-**Build and deploy AI Agents on Cloudflare**
+**Language**: TypeScript
 
-> Cloudflare 官方推出的 AI Agent 构建和部署框架，利用边缘计算能力快速构建高性能 AI Agent。
+**Stars**: 4,118 | **Forks**: 421
 
-## 核心特点
+**Description**: Build and deploy AI Agents on Cloudflare
 
-- ⚡ **边缘部署** - 全球 300+ 数据中心低延迟运行
-- 🤖 **Agent 框架** - 专为 AI Agent 设计的开发框架
-- 🔧 **简单集成** - 与 Cloudflare Workers 无缝集成
-- 🌍 **全球覆盖** - 自动全球部署与负载均衡
+**首次上榜**: 2026-02-24
 
-## 技术栈
+## AI 总结
 
-- TypeScript
-- Cloudflare Workers
-- Edge Runtime
+Cloudflare Agents是Cloudflare推出的AI代理开发部署平台，利用其边缘计算网络让AI代理运行在全球各地。它为开发者提供了在边缘部署AI代理的基础设施，具有低延迟、高可用性的特点。
 
-## 适用场景
+## 上榜记录
 
-- 聊天机器人
-- 自动化助手
-- 智能客服
-- 实时推理服务
-
----
-
-*收录于 AI Daily Digest 2025-02-22*
+- 2026-02-24: ⭐+318
