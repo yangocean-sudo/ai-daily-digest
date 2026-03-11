@@ -4,18 +4,16 @@
 
 **Language**: TypeScript
 
+**Stars**: 4,667 | **Forks**: 368
+
 **Description**: JavaScript in-page GUI agent. Control web interfaces with natural language.
 
-## AI Summary
+**首次上榜**: 2026-03-11
 
-Alibaba's page-agent is an innovative tool that enables users to control web interfaces using natural language commands. By bridging human intent with web automation through AI-powered understanding, it represents a significant step toward more intuitive human-computer interaction on the web. This tool could democratize web automation by removing the need for technical scripting knowledge.
+## AI 总结
 
-## Key Features
-- Natural language web interface control
-- In-page JavaScript agent
-- AI-powered understanding
-- Web automation without coding
-- Open source from Alibaba
+阿里巴巴开源的page-agent是一个JavaScript页面内GUI代理，允许用户用自然语言控制网页界面。这是浏览器自动化领域的重要进展，可以让AI代理像人类一样操作网页。
 
-## Trending History
-- 2026-03-08: ⭐+137 stars (1,592 total)
+## 上榜记录
+
+- 2026-03-11: ⭐+1,206
