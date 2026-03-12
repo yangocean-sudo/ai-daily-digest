@@ -2,16 +2,36 @@
 
 **GitHub**: https://github.com/AstrBotDevs/AstrBot
 
-**Language**: Python
+## Info
+- **Language**: Python
+- **Stars**: 5,618
+- **Forks**: 639
+- **Today Stars**: +123
 
-**Description**: Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features, and can be your openclaw alternative.
+## Description
 
-**首次上榜**: 2026-03-11
+Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features, and can be your openclaw alternative. ✨
 
-## AI 总结
+## AI Summary
 
-AstrBot是一个代理式即时通讯聊天机器人基础设施，集成多个IM平台、大语言模型、插件和AI功能。它可以作为OpenClaw的替代方案，适合需要自建AI助手基础设施的用户。
+AstrBot is a comprehensive multi-platform chatbot framework designed for building sophisticated conversational AI systems:
 
-## 上榜记录
+1. **Multi-Platform Support**: Integrates with various instant messaging platforms (Discord, Telegram, QQ, WeChat, etc.)
+2. **LLM Integration**: Supports multiple large language model providers
+3. **Plugin Architecture**: Extensible system for adding custom functionality
+4. **AI Features**: Built-in support for image generation, voice, and other AI capabilities
+5. **Open Source Alternative**: Positioned as an alternative to proprietary solutions like OpenClaw
 
-- 2026-03-11: 上榜
+The project emphasizes ease of deployment and configuration, making it accessible for both developers and non-technical users.
+
+## Use Cases
+
+- Building custom chatbots for communities
+- Enterprise customer service automation
+- Personal AI assistants across multiple platforms
+- Educational chatbots with plugin capabilities
+- Integration hub for various AI services
+
+## Appearances
+
+- 2026-03-12: ⭐+123 stars (GitHub Trending)
