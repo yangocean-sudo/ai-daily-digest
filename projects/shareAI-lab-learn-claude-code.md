@@ -1,29 +1,23 @@
 # learn-claude-code
 
-**GitHub**: https://github.com/shareAI-lab/learn-claude-code
+**GitHub**: [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+
 **Language**: TypeScript
-**Stars**: 18,327+
-**Forks**: 3,803+
 
-## Description
+**Description**: Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
 
-Bash is all you need - A nano Claude Code–like agent, built from 0 to 1.
+**Stars**: 35,473 | **Forks**: 5,686
 
-Learn how to build your own AI coding assistant by understanding the core principles behind Claude Code.
+**Weekly Stars**: +8,609
+
+---
 
 ## AI Summary
 
-learn-claude-code is an educational project that reverse-engineers the core concepts behind Anthropic's Claude Code, one of the most impressive AI coding assistants available. The project demonstrates that sophisticated AI agents can be built with minimal dependencies—just Bash and fundamental AI principles.
+learn-claude-code is a minimal agent harness inspired by Claude Code, built entirely in Bash. It demonstrates that powerful AI agent frameworks can be created with simple shell scripts. The project has exploded in popularity with over 35k stars, reflecting the intense developer interest in AI coding assistants.
 
-Key learning outcomes:
-- Understanding agent loop architectures
-- Tool use and function calling patterns
-- Context management for coding tasks
-- Building with minimal dependencies
-- Integration with shell environments
+---
 
-With 18K+ stars, this project has become a go-to resource for developers wanting to understand how modern AI coding assistants work under the hood. The "from 0 to 1" approach makes it accessible even to those new to AI agent development.
+## Trending History
 
-## Trending Record
-
-- 2026-02-26: ⭐+175 stars (GitHub Trending #12)
+- **2026-03-22**: +8,609 stars this week
