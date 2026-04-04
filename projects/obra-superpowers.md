@@ -1,15 +1,12 @@
-# obra/superpowers
-- **GitHub:** https://github.com/obra/superpowers
-- **语言:** Shell
-- **描述:** An agentic skills framework & software development methodology
-- **首次上榜:** 2026-02-17
+# superpowers
 
-## AI 总结
-AI Agent 技能框架，定义可落地的软件开发方法论，是最热的 agentic 开发框架之一。
+**GitHub**: https://github.com/obra/superpowers
 
-## 上榜记录
-- 2026-02-17: ⭐+725
-- 2026-02-18: ⭐+569
-- 2026-02-19: ⭐+868
+**Language**: (Not specified)
 
-- 2026-02-20: ⭐ Still trending
+**Description**: An agentic skills framework & software development methodology that works.
+
+**AI Summary**: A practical agentic skills framework and software development methodology. The project aims to provide a structured approach to building AI-powered applications with proven workflows.
+
+**Trending History**:
+- 2026-04-01: first trending
